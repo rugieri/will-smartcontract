@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "payable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "hasDeceased",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"will.sol": "Will"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"will.sol": {
+			"keccak256": "0xd6bf652931e9bcb5ef90215a645eb99c40085ccd60ac71f33d708a3a7d39f954",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://232b26795b43b96eea9f31f23b71d8e78c87459e0e899588b25218b8fea542a3",
+				"dweb:/ipfs/QmRtyj5ba6ZeGa7rs8BFbS4X2CszKc4BDeufVXyL7jiSSR"
+			]
+		}
+	},
+	"version": 1
+}
