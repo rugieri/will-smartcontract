@@ -46,11 +46,11 @@
 	},
 	"sources": {
 		"will.sol": {
-			"keccak256": "0xd6bf652931e9bcb5ef90215a645eb99c40085ccd60ac71f33d708a3a7d39f954",
-			"license": "MIT",
+			"keccak256": "0xd46ed9aae7f1dab84b3c86eaf30f2965c23efac423b366dee3e798dbf3d852dc",
+			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://232b26795b43b96eea9f31f23b71d8e78c87459e0e899588b25218b8fea542a3",
-				"dweb:/ipfs/QmRtyj5ba6ZeGa7rs8BFbS4X2CszKc4BDeufVXyL7jiSSR"
+				"bzz-raw://16b38dc06e9fb2a7b0a173141b82717832c584a2a907e8599fe937f65f65a595",
+				"dweb:/ipfs/QmVY8hDkDCWG2FZrY5y5isLwUKMR6sYAnsER4a5f58J6Py"
 			]
 		}
 	},
